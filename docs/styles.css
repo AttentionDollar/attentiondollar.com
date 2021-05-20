@@ -1,0 +1,124 @@
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: #222;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Spartan", sans-serif;
+}
+
+h1 {
+  font-size: 5em;
+  font-weight: 700;
+  line-height: 70px;
+  margin: 80px 0 20px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 60px;
+  margin: 50px 0;
+  text-transform: uppercase;
+}
+
+.book-cover {
+  width: 100%;
+}
+
+p,
+ul {
+  font-size: 25px;
+  font-weight: 300;
+  margin: 50px 0;
+  word-wrap: break-word;
+  line-height: 46px;
+}
+
+small {
+  font-weight: 300;
+}
+
+.btn-cta {
+  font-family: "Open Sans", sans-serif;
+}
+
+hr {
+  margin: 60px 0;
+}
+
+.product {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.price {
+  font-size: 2.5rem;
+}
+
+.price del {
+  color: #777;
+  font-size: 1.5rem;
+}
+
+.price small {
+  color: #777;
+  font-size: 1.2rem;
+}
+
+.social-link {
+  font-size: 2em;
+  text-decoration: none;
+  margin: 0 20px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin: 50px 0;
+  padding: 0;
+}
+
+.book-chapter {
+  color: #222;
+  font-style: italic;
+}
+
+.work-in-progress {
+  color: #888;
+}
+
+.copyright {
+  font-size: 20px;
+  color: #888;
+}
+
+blockquote {
+  margin: 0;
+}
+
+blockquote.recommendation {
+  margin-bottom: 60px;
+}
+
+.subscribe {
+  padding-bottom: 40px;
+}
