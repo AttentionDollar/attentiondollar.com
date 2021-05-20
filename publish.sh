@@ -3,11 +3,12 @@
 ./prettier.sh
 
 # Set user
-git config user.name "Attention Dollar"
-git config user.email "attentiondollar@gmail.com"
+git config --local credential.helper ""
+git config --local user.name "Attention Dollar"
+git config --local user.email "attentiondollar@gmail.com"
 
 # Commit and push
-git checkout master
+git checkout main
 git add .
 git commit -m "Update"
 git push
