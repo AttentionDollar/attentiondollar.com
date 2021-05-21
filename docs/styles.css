@@ -30,10 +30,12 @@ h1 {
 
 h1 .intimate {
   color: #f53c99;
+  font-weight: 700;
 }
 
 h1 .money {
   color: #00a32f;
+  font-weight: 700;
 }
 
 h2 {
