@@ -114,12 +114,11 @@ li {
 }
 
 .book-chapter {
-  color: #222;
   font-style: italic;
 }
 
 .book-chapter-title {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .work-in-progress {
