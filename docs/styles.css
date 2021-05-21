@@ -49,6 +49,14 @@ ul {
   line-height: 46px;
 }
 
+a {
+  color: #198754;
+}
+
+a:hover {
+  color: #ff4cff;
+}
+
 small {
   font-weight: 300;
 }
